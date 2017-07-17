@@ -1,3 +1,7 @@
-name: Hello
-version: 1.6.3
+name: SB_TELEFONIA
+description: >
+  Telefony System of Synapse Brasil
 category: System
+maintainer: Development Team of Synapse Brasil <dev@synapsebrasil.com.br> 
+license: Freepbx
+projectURL: https://github.com/MatheusBinicheski/sb_telefonia_docker.git
