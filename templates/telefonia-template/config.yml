@@ -1,6 +1,3 @@
-name: SB_Telefonia
-description: |
-  Teste
-maintainer: Matheus Mangabeira Binicheski <matheus.mangabeira@synapsebrasil.com.br>
-license: freepbx
-projectURL: https://github.com/MatheusBinicheski/sb_telefonia_docker.git
+name: Hello
+version: 1.6.3
+category: System
