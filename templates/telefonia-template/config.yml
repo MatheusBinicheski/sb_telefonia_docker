@@ -1,8 +1,6 @@
-name: telefonia-template
+name: SB_Telefonia
 description: |
   Teste
-version: v0.4.0
-category: Toy Apps
 maintainer: Matheus Mangabeira Binicheski <matheus.mangabeira@synapsebrasil.com.br>
 license: freepbx
-projectURL: http://git.synapsebrasil.com.br/matheus.mangabeira/sb_telefonia.git
+projectURL: https://github.com/MatheusBinicheski/sb_telefonia_docker.git
