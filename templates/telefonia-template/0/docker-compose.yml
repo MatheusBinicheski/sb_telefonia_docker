@@ -1,0 +1,2 @@
+freepbx:
+  image: docker pull nicjo814/docker-freepbx

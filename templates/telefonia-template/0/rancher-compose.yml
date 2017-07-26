@@ -1,4 +1,17 @@
 .catalog:
-  name: "SB_TELEFONIA"
-  version: "v1.6.3"
-  description: "teste"
+  name: "SB-Telefonia"
+  version: "v0.1-sb-telefonia"
+  description: "Solução IP para empresas"
+  uuid: Freepbx-0
+  minimum_rancher_version: v0.51.0
+  questions:    
+    - variable: public_port
+      description: "public port to access the freepbx solution"
+      label: "Public Port"
+      required: true
+      default: "80"
+      type: "int"
+
+
+freepbx:
+
